@@ -12,18 +12,18 @@ body{
         border-radius: 5px;
     }
 h3{
-    color: yellowgreen;
-}
+    color: blue;
+  }
 img{
-height: 330px;
-width: 300px;
-}
+    height: 330px;
+    width: 300px;
+    }
 .cont1{   
     display: flex;
-}    
+      }    
 .photo{
     margin-left:650px;
-}
+      }
 .cont3{
     margin-left: 2px;
     border:2px solid black;
@@ -34,10 +34,10 @@ width: 300px;
     font-size: 20px;
     border-radius: 5px;
     
-}
+      }
 form input{
     margin-bottom: 10px;
-}
+          }
 
 .cont2{
     margin-left: 2px;
@@ -47,7 +47,7 @@ form input{
     padding: 10px;
     font-size: 20px;
     border-radius: 5px;
-}
+      }
 button{
     margin: 10px;
     height:40px;
@@ -56,14 +56,14 @@ button{
    border:transparent;
    border-radius: 2px;
    color: white;
-}
+      }
 #bt1{
-    background-color: yellowgreen;
-}
+    background-color: blue;
+    }
 #bt2{
     background-color:grey;
-}
+    }
 input[type="text"]{
-width: 200px;
-padding: 10px;
-}
+        width: 200px;
+        padding: 10px;
+                 }
