@@ -11,6 +11,9 @@ body{
         font-family:sans-serif;
         border-radius: 5px;
     }
+.descrip{
+    margin-left: 2px;
+}
 h3{
     color: blue;
   }
@@ -20,9 +23,10 @@ img{
     }
 .cont1{   
     display: flex;
+    border:2px solid black;
       }    
 .photo{
-    margin-left:650px;
+    margin-left:698px;
       }
 .cont3{
     margin-left: 2px;
